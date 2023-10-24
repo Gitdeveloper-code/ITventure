@@ -1,0 +1,22 @@
+dateModified: 1698164211
+email:
+  fromEmail: kasimahmed573@gmail.com
+  fromName: IT-venture
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    9eaa3e64-917c-4838-a071-8e6d3be58462: IT-venture # IT-venture
+    550704b4-ed53-46fa-9d15-3e6aa64dff06: Common # Common
+    d3cf0527-ee23-4f2d-9ac0-4faa8df20ef4: IT-venture # IT-venture
+system:
+  edition: solo
+  live: true
+  name: IT-venture
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
